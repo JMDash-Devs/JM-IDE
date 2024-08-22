@@ -1,5 +1,6 @@
 # JM-IDE
-JM- (or JMDash)'s desktop IDE.
+[JM- (or JMDash)](https://github.com/maxwastakenyt/jmdash)'s desktop IDE. \
+(It's spelled /ˈdʒeɪ/ /ˈɛm/ /ˈdæʃ/ /ˈaɪ/ /ˈdi/ /ˈi/)
 
 ## Designs
 "Initial design for the desktop IDE"
